@@ -17,7 +17,7 @@ public class SeleniumTest {
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-        //Launch the Online Store Website
+        //Launch the Online Store Websitezxczxczx
 
         driver.get("http://www.store.demoqa.com");
 
